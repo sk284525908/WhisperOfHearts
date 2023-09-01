@@ -1,4 +1,4 @@
-package com.myapplication
+package com.sunk.music
 
 import MainView
 import android.os.Bundle

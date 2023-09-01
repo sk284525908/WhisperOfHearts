@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "Whisper Of Heart"
 
 include(":androidApp")
 include(":shared")
